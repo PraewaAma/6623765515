@@ -8,6 +8,7 @@ public partial class App : Application
 
 		//MainPage = new AppShell();
 		//MainPage = new Assignment8();
-		MainPage = new Assignment9();
+		//MainPage = new Assignment9();
+		MainPage = new Assignment10();
 	}
 }
