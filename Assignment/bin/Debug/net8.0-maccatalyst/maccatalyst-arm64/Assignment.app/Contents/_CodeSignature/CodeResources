@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		6R3ewBVPhsROOs74l5Av8g6KiYs=
+		Zi3ZdLu1IuPn++21BhK6bCYseDA=
 		</data>
 		<key>Resources/MauiInfo.plist</key>
 		<data>
@@ -67,14 +67,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GQnLYGUmtuR+fWgaEi8YokxmUSBp78TA1h2O4v9G0bA=
+			LwonNFXAGvO8cXXGQ/AONao0xcj4UQeSaky/m5guR8U=
 			</data>
 		</dict>
 		<key>MonoBundle/Assignment.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J+g7zIvy9xaGahNlCKjRqaH9xPWtVzpgiU8otZXGWeI=
+			El9hGNOUOqAlC9H2/RLk8bXXpy5NH5HFwJyo7Orvy1A=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
@@ -229,6 +229,41 @@
 			<key>hash2</key>
 			<data>
 			d8TldomKIUyoyFswwMpbwauKjTYeAhjVYiE3T8U5R5g=
+			</data>
+		</dict>
+		<key>MonoBundle/PropertyChanged.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jJ75FJff71C8+s0VRNdFlIdM9sJzSZA/AnpKdiVX6tM=
+			</data>
+		</dict>
+		<key>MonoBundle/SQLite-net.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/0h0FMSssyqe6OCqk97walP3tX35PS56JgVOGN+Fcj4=
+			</data>
+		</dict>
+		<key>MonoBundle/SQLitePCLRaw.batteries_v2.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kylPuIiR6IKN27UfH1K8VCl9n9pSQbikaTX+p10gtqM=
+			</data>
+		</dict>
+		<key>MonoBundle/SQLitePCLRaw.core.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			l57cyQVqwG1fUrEtm3czsSF5FKtQvxI6sxLgJ+esV6U=
+			</data>
+		</dict>
+		<key>MonoBundle/SQLitePCLRaw.provider.e_sqlite3.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RwA/P9Qppbadb8bP0Wv82XkQMhcB5eeoiQYWQ8gdCGU=
 			</data>
 		</dict>
 		<key>MonoBundle/System.AppContext.dll</key>
@@ -1498,6 +1533,13 @@
 			7/80wgnS+2kUr833AKcVjgV+mbBTrsL9Bhzz7wa9AiI=
 			</data>
 		</dict>
+		<key>MonoBundle/libe_sqlite3.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7GQGChwosN+onzu5oGGCfWSy3x1WdZdMrAyaaafyvnI=
+			</data>
+		</dict>
 		<key>MonoBundle/ms/Microsoft.Maui.Controls.resources.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -1649,7 +1691,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			veU4ABCL6/sXVIAMPRaUvKg28hNkrLkTfvfMQaiAyQ0=
+			L3lKqwhuPGICpqcw62vdOBgRty46WQRaUtjRoHXxwOw=
 			</data>
 		</dict>
 		<key>Resources/MauiInfo.plist</key>

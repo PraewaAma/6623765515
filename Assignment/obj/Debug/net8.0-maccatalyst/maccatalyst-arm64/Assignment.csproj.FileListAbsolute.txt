@@ -304,3 +304,10 @@
 /Users/whawa/Documents/DX212/Assignment/Assignment/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resizetizer/r/Resources/car3.jpg
 /Users/whawa/Documents/DX212/Assignment/Assignment/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resizetizer/r/Resources/car2.jpg
 /Users/whawa/Documents/DX212/Assignment/Assignment/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Assignment.sourcelink.json
+/Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/SQLite-net.dll
+/Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/SQLitePCLRaw.batteries_v2.dll
+/Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/SQLitePCLRaw.core.dll
+/Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/libe_sqlite3.dylib
+/Users/whawa/Documents/DX212/Assignment/Assignment/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Assignment.csproj.Fody.CopyLocal.cache
+/Users/whawa/Documents/DX212/Assignment/Assignment/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Assignment.csproj.Fody.RuntimeCopyLocal.cache

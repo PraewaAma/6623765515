@@ -1,4 +1,5 @@
 /Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Assignment.app/Contents/MonoBundle/icudt.dat
+/Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Assignment.app/Contents/MonoBundle/PropertyChanged.dll
 /Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Assignment.app/Contents/MonoBundle/ar/Microsoft.Maui.Controls.resources.dll
 /Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Assignment.app/Contents/MonoBundle/ca/Microsoft.Maui.Controls.resources.dll
 /Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Assignment.app/Contents/MonoBundle/cs/Microsoft.Maui.Controls.resources.dll
@@ -49,6 +50,10 @@
 /Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Assignment.app/Contents/MonoBundle/Microsoft.Maui.dll
 /Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Assignment.app/Contents/MonoBundle/Microsoft.Maui.Essentials.dll
 /Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Assignment.app/Contents/MonoBundle/Microsoft.Maui.Graphics.dll
+/Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Assignment.app/Contents/MonoBundle/SQLite-net.dll
+/Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Assignment.app/Contents/MonoBundle/SQLitePCLRaw.batteries_v2.dll
+/Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Assignment.app/Contents/MonoBundle/SQLitePCLRaw.core.dll
+/Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Assignment.app/Contents/MonoBundle/SQLitePCLRaw.provider.e_sqlite3.dll
 /Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Assignment.app/Contents/MonoBundle/Assignment.dll
 /Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Assignment.app/Contents/MonoBundle/Microsoft.CSharp.dll
 /Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Assignment.app/Contents/MonoBundle/Microsoft.VisualBasic.Core.dll
@@ -221,6 +226,7 @@
 /Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Assignment.app/Contents/MonoBundle/Microsoft.MacCatalyst.dll
 /Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Assignment.app/Contents/MonoBundle/Assignment.pdb
 /Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Assignment.app/Contents/MonoBundle/Microsoft.MacCatalyst.pdb
+/Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Assignment.app/Contents/MonoBundle/libe_sqlite3.dylib
 /Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Assignment.app/Contents/MonoBundle/aot-instances.aotdata.arm64
 /Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Assignment.app/Contents/MonoBundle/System.Private.CoreLib.aotdata.arm64
 /Users/whawa/Documents/DX212/Assignment/Assignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Assignment.app/Contents/MacOS//Assignment

@@ -21,8 +21,10 @@ public partial class Assignment10 : ContentPage
     {
 		if (!this.Finished)
 		{
-			var ScreenWidth = Application.Current.MainPage.Width;
-			this.CarsNo1Run(ScreenWidth);
+#pragma warning disable CS8602 // Dereference of a possibly null reference.
+            var ScreenWidth = Application.Current.MainPage.Width;
+#pragma warning restore CS8602 // Dereference of a possibly null reference.
+            this.CarsNo1Run(ScreenWidth);
 			this.CarsNo2Run(ScreenWidth);
 			this.CarsNo3Run(ScreenWidth);
 			this.InfoCars.Text = "1st Car"+ "\n" + CarNo1.ShowInfoCar() + "\n" + "2nd Car"+ "\n" + CarNo2.ShowInfoCar() + "\n" + "3rd Car"+ "\n" + CarNo3.ShowInfoCar();
