@@ -15,6 +15,6 @@ public partial class App : Application
 		//MainPage = new Assignment8();
 		//MainPage = new Assignment9();
 		//MainPage = new Assignment10();
-		MainPage = new Assignment11();
+		MainPage = new Assignment12();
 	}
 }

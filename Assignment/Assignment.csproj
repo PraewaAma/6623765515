@@ -64,4 +64,10 @@
 		<PackageReference Include="sqlite-net-pcl" Version="1.9.172" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Compile Update="Assignment12.xaml.cs">
+	    <DependentUpon>Assignment12.xaml</DependentUpon>
+	  </Compile>
+	</ItemGroup>
+
 </Project>

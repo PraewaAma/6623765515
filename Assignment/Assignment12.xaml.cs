@@ -2,9 +2,9 @@ using Assignment.MVVM.ViewModels;
 
 namespace Assignment;
 
-public partial class Assignment11 : ContentPage
+public partial class Assignment12 : ContentPage
 {
-	public Assignment11()
+	public Assignment12()
 	{
 		InitializeComponent();
 		BindingContext = new CarsPageViewModels();
