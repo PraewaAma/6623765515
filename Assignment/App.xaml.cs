@@ -1,20 +1,19 @@
-﻿using Assignment.Respositories;
+﻿using Assignment.Classes;
+using Assignment.Respositories;
 
 namespace Assignment;
 
 public partial class App : Application
 {
-	public static CarsRespository _carRepo { get; set;}
-	public App(CarsRespository carsRepo)
+
+	public App()
 	{
 		InitializeComponent();
-
-		_carRepo = carsRepo;
-
 		//MainPage = new AppShell();
 		//MainPage = new Assignment8();
 		//MainPage = new Assignment9();
 		//MainPage = new Assignment10();
-		MainPage = new Assignment12();
+		//MainPage = new Assignment12();
+		MainPage = new Assignment13();
 	}
 }
