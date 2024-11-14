@@ -6,7 +6,7 @@ using Assignment.Models;
 using Assignment.Services;
 using PropertyChanged;
 
-namespace Assignment.MVVM.ViewModels;
+namespace Assignment.ViewModels;
 
 public class Assignment13ViewModel
 {

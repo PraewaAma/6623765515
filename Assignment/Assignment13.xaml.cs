@@ -1,4 +1,4 @@
-using Assignment.MVVM.ViewModels;
+using Assignment.ViewModels;
 using Assignment.Services;
 
 namespace Assignment;
